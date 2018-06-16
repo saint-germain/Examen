@@ -1,7 +1,4 @@
-# Ejercicio1
-# A partir de los arrays x y fx calcule la segunda derivada de fx con respecto a x. 
-# Esto lo debe hacer sin usar ciclos 'for' ni 'while', solamente puede usar 'slicing' (i.e. a[2:-2])
-# Guarde esta segunda derivada en funcion de x en una grafica llamada 'segunda.png'
+# Ejercicio 1 (10 puntos)
 
 import numpy as np
 
