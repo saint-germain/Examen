@@ -1,9 +1,9 @@
 # Ejercicio 1 (10 puntos)
+# Calcule integral de exp(x) entre 0 y 1 con el método de trapecio y de Simpson.
+# Haga una grafica (error.png) del error fraccional entre la solución numérica y 
+# analítica como funcion del numero de puntos (desde N=10 hasta N=10^8). 
+# Tanto el error como el numero de puntos deben variar en escala logaritmica.
 
-import numpy as np
-
-x = np.linspace(0,2.,10)
-fx = np.array([0., 0.0494, 0.1975, 0.4444, 0.7901,1.2346 , 1.7778, 2.4198, 3.1605, 4.])
 
 
 
