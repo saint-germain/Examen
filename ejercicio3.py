@@ -6,3 +6,4 @@
 # Los valores diferentes del alcance se deben a diferentes ángulos de lanzamiento. 
 # Utilice métodos montecarlo y el teorema de Bayes para encontrar la velocidad más probable del lanzador de proyectiles 
 # a medida que se va incluyendo información nueva sobre los valores del alcance.
+# Haga una grafica (bayes.png) que tenga la probabilidad de la velocidad inicial dados los datos observacionales.
